@@ -1,0 +1,4 @@
+pyenchant==3.2.2
+pytesseract==0.3.9
+textblob==0.17.1
+opencv-python==4.5.5.62
